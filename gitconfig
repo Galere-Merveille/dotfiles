@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = djanetdesign@gmail.com
+	name = claire lenglart
